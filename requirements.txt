@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+pymongo
+redis
+faststream[rabbit]
+aio-pika
+python-dotenv
+httpx
+pytest
