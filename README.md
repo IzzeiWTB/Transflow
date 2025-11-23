@@ -123,5 +123,5 @@ Após subir com Docker Compose:
 
 ## 8. Captura de tela
 
-Adicione aqui uma captura de tela da API em execução (Swagger UI ou RabbitMQ Management),
-conforme solicitado na avaliação.
+<img width="1878" height="992" alt="image" src="https://github.com/user-attachments/assets/239ad4ac-0593-4ef6-9bfd-9a640241484c" />
+
