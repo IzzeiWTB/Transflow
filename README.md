@@ -127,7 +127,8 @@ Após subir com Docker Compose:
 <img width="1878" height="992" alt="image" src="https://github.com/user-attachments/assets/239ad4ac-0593-4ef6-9bfd-9a640241484c" />
 
 [GET Corridas]
-<img width="1858" height="994" alt="image" src="https://github.com/user-attachments/assets/7026823b-a1ec-4bc6-81dc-3e89576134d9" />
+<img width="1876" height="981" alt="image" src="https://github.com/user-attachments/assets/e809502c-99b2-4c93-ab26-3f519424209b" />
+
 
 [Rabbit Teste]
 <img width="1858" height="994" alt="image" src="https://github.com/user-attachments/assets/75d9f2b9-1e85-4608-82ac-19c928c9e727" />
